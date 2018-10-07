@@ -14,5 +14,4 @@ group :test do
 end
 
 gem 'mail', '~> 2.6', '>= 2.6.3'
-
-
+gem "awesome_print", :git => "https://github.com/awesome-print/awesome_print"
